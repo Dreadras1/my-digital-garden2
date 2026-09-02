@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"dg-note-properties":{"updated":null}}
 ---
 
----
+--- [[Digital Garden/page 2\|page 2]]
 ---dg-home
 test 123 
 '
