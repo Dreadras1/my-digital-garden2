@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/page-2/","tags":["gardenEntry"],"dg-note-properties":{"aliases":"true"}}
+{"dg-publish":true,"permalink":"/digital-garden/page-2/","tags":["gardenEntry"],"dg-note-properties":{"aliases":null}}
 ---
 
 this is page two
