@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/elhune/","tags":["gardenEntry"],"dgShowFileTree":"true","dg-note-properties":{"sidebar":"true","filetree":"true"}}
+{"dg-publish":true,"permalink":"/digital-garden/elhune/","tags":["gardenEntry"],"dgShowFileTree":"false","dg-note-properties":{"sidebar":"true","filetree":"true"}}
 ---
 
 ![Eluna.jpg\|447](/img/user/Pasted%20images/Eluna.jpg)
