@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"dg-note-properties":{"updated":null}}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 --- [[Digital Garden/page 2\|page 2]]
