@@ -5,10 +5,20 @@
 this is page two
 
 
+---
+dg-home: true
+dg-publish: true
+---
+
 --- 
 dg-publish: true 
 dg-home: true 
 
+---
+dg-home: true
+dg-publish: true
+
+---
 
 [[Digital Garden/Elhune\|Elhune]] hyperlink
 
